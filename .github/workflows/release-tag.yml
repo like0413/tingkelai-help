@@ -9,7 +9,7 @@ env:
 
 jobs:
   Build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: 检出仓库代码
         uses: actions/checkout@v3
