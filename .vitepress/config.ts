@@ -84,6 +84,7 @@ function createSidebar() {
   return [
     {
       text: '例子',
+      collapsed: true,
       items: [
         { text: '模板', link: '/docs/template' },
         { text: '测试', link: '/docs/test' },
