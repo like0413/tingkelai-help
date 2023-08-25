@@ -57,8 +57,8 @@ export default defineConfig({
 
     // socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You',
+      message: 'Released under the Apache License.',
+      copyright: 'Copyright © 2019-2013 听客来',
     },
   },
 })
