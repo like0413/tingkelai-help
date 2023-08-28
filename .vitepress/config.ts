@@ -6,7 +6,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   lang: 'zh-CN',
   ignoreDeadLinks: true,
-  base: '/web/help/',
+  base: '/tingkelai/help',
   cleanUrls: true,
   outDir: 'dist',
   lastUpdated: true,
